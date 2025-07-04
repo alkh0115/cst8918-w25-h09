@@ -1,0 +1,10 @@
+# Terraform sensitive files
+terraform/.terraform/
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+
+# kubeconfig contains credentials
+kubeconfig
+
+# VS Code settings (optional)
+.vscode/
